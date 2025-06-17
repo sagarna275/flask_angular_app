@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+
+# Flask logs
+*.log
+
+# Ignore Angular build inside static if added by mistake
+!static/.keep  # if you want to keep folder structure

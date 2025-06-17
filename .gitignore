@@ -1,0 +1,9 @@
+# OS / Editor specific
+*.swp
+.DS_Store
+*.bak
+*.log
+
+# Global node or python stuff (if using monorepo tools)
+node_modules/
+.env

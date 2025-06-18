@@ -40,10 +40,11 @@ frontend/angular-sample-app/!.vscode/settings.json
 .history/*
 
 # Miscellaneous
-/.angular/cache
-.sass-cache/
-/connect.lock
-/coverage
+frontend/angular-sample-app/.editorconfig
+frontend/angular-sample-app/.angular/cache
+frontend/angular-sample-app/.sass-cache/
+frontend/angular-sample-app/connect.lock
+frontend/angular-sample-app/coverage
 /libpeerconnection.log
 testem.log
 /typings
